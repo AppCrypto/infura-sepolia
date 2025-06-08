@@ -44,6 +44,7 @@ Version: 0.8.25-develop
 2. Run the deploy/main.go
 
     ```bash
+    cd deploy
     go run main.go
     ```
 
